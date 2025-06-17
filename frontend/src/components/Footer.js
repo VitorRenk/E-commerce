@@ -8,7 +8,7 @@ function Footer() {
         <Grid container justifyContent="center">
           <Grid item>
             <Typography variant="body1" color="textSecondary" align="center">
-              Projeto_Django_React
+              Conteúdo Oficial
             </Typography>
           </Grid>
         </Grid>
