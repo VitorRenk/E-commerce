@@ -1,1 +1,1 @@
-E-commerce Django + React utilizando o Python 3.10.7
+E-commerce Django + React utilizando o Python 3.12.3
