@@ -3,13 +3,17 @@
 ### Introdução
 #### Projeto demonstrativo para criação de um site e-commerce de produtos variados, gerenciado pelo administrador, com integração de pagamentos via PayPal e cartão de crédito. A aplicação foi desenvolvida utilizando Django, React, Kubernetes e Docker.
 
+
 <p align="center">
   <img src="ecommerce.PNG" alt="react" />
 </p>
 
+
+
 <p align="center">
   <img src="django.PNG" alt="django" />
 </p>
+
 ---
 
 ### Como utilizar o projeto
@@ -36,5 +40,3 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-
-44e1179 (primeiras mudanças na documentação)
