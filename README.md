@@ -25,9 +25,11 @@ pip install -r requirements.txt
 ```
 Obs: o arquivo requirements.txt estará dentro da pasta backend, portanto tenha certeza de estar dentro da pasta correta para a instalação.
 
-Pressione F1 e selecione:
+Pressione F1 e selecione (no VSCode):
 - Python: Select Interpreter
 - Selecione o Python da pasta env
+
+Ou em algum outro compilador de sua escolha.
 
 Após a instalação dos requirements, ative os scripts da env no terminal:
 ```
@@ -47,7 +49,7 @@ python manage.py runserver
 
 Com a página do django, é possível criar e personalizar as ordens, criar os produtos e gerenciar toda a infraestrutura do site em si.
 
-Para visualizar a página do react, basta entrar noo diretório do frontend com um novo terminal e utilizar o seguinte comando:
+Para visualizar a página do react, basta entrar no diretório do frontend com um novo terminal e utilizar o seguinte comando:
 ```
 npm install
 npm start
